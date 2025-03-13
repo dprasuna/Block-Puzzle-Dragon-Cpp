@@ -9,11 +9,6 @@ If you want to learn how to build your own Tetris game with raylib, .</a> 🎬�
   <img src="preview.jpg" alt="" width="960">
 </p>
 
-<p align="center">
-🎥 <a href="https://youtu.be/wVYKG_ch4yM">Video Tutorial on YouTube</a>
-</p>
 
 <br>
 <br>
-
-#
