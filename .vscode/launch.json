@@ -7,7 +7,7 @@
         {
           "name": "Debug",
           "type": "cppdbg",
-          "request": "launch",
+          "request": "launch",  
           "program": "${workspaceFolder}/${fileBasenameNoExtension}",
           "args": [],
           "stopAtEntry": false,
