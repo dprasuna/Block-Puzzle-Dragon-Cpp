@@ -11,7 +11,7 @@
     "lint": "prettier src",
     "fix": "prettier --write src",
     "test": "ava test"
-  },
+  }, 
   "dependencies": {
     "ava": "^5.0.1",
     "comma-number": "^2.1.0",

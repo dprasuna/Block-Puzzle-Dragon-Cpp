@@ -3,7 +3,7 @@ export default {
   newLevelEvery: 10,
 
   boardSize: [12, 20],
-  blockSize: 28,
+  blockSize: 28, 
 
   // Falling rate should be expressed in steps per second.
   initialFallRate: 1,

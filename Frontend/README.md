@@ -11,7 +11,7 @@ _Note: This was originally coded in 2016 and there have been a lot of new develo
 ## 👉 [Play Now!](https://mimstris.onrender.com) 🎮 📺
 
 [![Screen Shot](screenshot.gif)](htts://mimstris.onrender.com)
-
+ 
 ## Motivation
 
 After watching [Meth Meth Method's video](https://www.youtube.com/watch?v=H2aW5V46khA) I was inspired to create a similar game for the following reasons:

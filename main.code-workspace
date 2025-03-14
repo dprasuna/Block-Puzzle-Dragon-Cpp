@@ -18,7 +18,7 @@
 			"cctype": "cpp",
 			"clocale": "cpp",
 			"cmath": "cpp",
-			"cstdarg": "cpp",
+			"cstdarg": "cpp", 
 			"cstddef": "cpp",
 			"cstdint": "cpp",
 			"cstdio": "cpp",
